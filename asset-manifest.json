@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6e1885c.chunk.css",
+    "main.js": "/static/js/main.26661072.chunk.js",
+    "main.js.map": "/static/js/main.26661072.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.63edf607.js",
+    "runtime-main.js.map": "/static/js/runtime-main.63edf607.js.map",
+    "static/js/2.5f47b398.chunk.js": "/static/js/2.5f47b398.chunk.js",
+    "static/js/2.5f47b398.chunk.js.map": "/static/js/2.5f47b398.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ebc0bbb6d6593d76a1f520412c02f9bb.js": "/precache-manifest.ebc0bbb6d6593d76a1f520412c02f9bb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b6e1885c.chunk.css.map": "/static/css/main.b6e1885c.chunk.css.map",
+    "static/js/2.5f47b398.chunk.js.LICENSE.txt": "/static/js/2.5f47b398.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/UTMHelve.fe66efea.woff2",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63edf607.js",
+    "static/js/2.5f47b398.chunk.js",
+    "static/css/main.b6e1885c.chunk.css",
+    "static/js/main.26661072.chunk.js"
+  ]
+}
